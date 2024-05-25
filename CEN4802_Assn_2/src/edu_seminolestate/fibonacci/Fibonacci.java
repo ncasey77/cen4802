@@ -1,8 +1,9 @@
-/*
- * Nicholas Casey
- * 5/20/2024
- * The purpose of this class is to
- * 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ...
+/**
+ * This returns the nth term of the Fibonacci series(0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ...).
+ * @param n the nth element of the series
+ * @return the number of the nth element
+ * @author Nicholas Casey
+ * @version 1.0
  */
 
 package edu_seminolestate.fibonacci;
